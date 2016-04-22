@@ -10,5 +10,10 @@
             "email": "manaf.pm@tryzens.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Test\\Composer\\": "src"
+        }
+    }
 }
