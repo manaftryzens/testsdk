@@ -1,5 +1,6 @@
 {
     "name": "magento/testsdk",
     "description": "testsdk",
-    "require": {}
+    "require": {},
+    "version":"1.0"
 }
