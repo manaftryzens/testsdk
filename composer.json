@@ -1,6 +1,14 @@
 {
     "name": "magento/testsdk",
+    "version":"1.0",
     "description": "testsdk",
+    "license": "MIT",
+    "keywords": ["composer"],
+    "authors": [
+        {
+            "name": "Tryzens",
+            "email": "manaf.pm@tryzens.com"
+        }
+    ],
     "require": {},
-    "version":"1.0"
 }
