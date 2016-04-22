@@ -10,7 +10,5 @@
             "email": "manaf.pm@tryzens.com"
         }
     ],
-    "require-dev": {
-        "phpunit/phpunit": "4.0.*"
-    }
+    "require": {}
 }
